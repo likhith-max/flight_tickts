@@ -68,6 +68,7 @@ int main(){
         break;
         case 2:
         sign_in();
+        break;
         default:
         printf("enter valid arguments");
     }
